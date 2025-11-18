@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 🔹 App Info -->
+    <string name="app_name">Week7Lab</string>
+
+    <!-- 🔹 Exercise 1 -->
+    <string name="fav_games_title">🎮 My Favourite Games</string>
+
+    <!-- 🔹 Exercise 2 -->
+    <string name="pet_list_title">🐾 Pet List</string>
+
+    <!-- 🔹 Exercise 3 -->
+    <string name="console_title">🎮 Choose Your Consoles</string>
+    <string name="add_to_cart">🛒 Add to Cart</string>
+    <string name="cart_total">Total: £0.00</string>
+
+    <!-- 🔹 Main Menu -->
+    <string name="main_title">📱 Week 7 Lab</string>
+    <string name="btn_ex1">Exercise 1: Favourite Games</string>
+    <string name="btn_ex2">Exercise 2: Pet List</string>
+    <string name="btn_ex3">Exercise 3: Console Cart</string>
+
+</resources>
